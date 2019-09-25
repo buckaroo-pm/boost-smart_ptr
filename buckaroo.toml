@@ -1,0 +1,13 @@
+targets = ["//:smart-ptr"]
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-config"
+version = "1.18.2"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-detail"
+version = "1.18.2"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-type_traits"
+version = "1.18.2"
