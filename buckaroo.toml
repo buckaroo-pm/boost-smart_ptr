@@ -1,4 +1,4 @@
-targets = ["//:smart-ptr"]
+targets = ["//:smart_ptr"]
 
 [[dependency]]
 package = "github.com/buckaroo-pm/boost-config"
