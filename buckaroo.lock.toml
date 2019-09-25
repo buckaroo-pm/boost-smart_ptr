@@ -1,4 +1,4 @@
-manifest = "69124169e82fc8c72884045dd5a709bb15adc80c55686dfa196659c66d0a97bb"
+manifest = "ea7a0da31a218bc4fac0cba75c92d260573a6f9fd45086dcb876281a637cabb7"
 
 [[dependency]]
 package = "github.com/buckaroo-pm/boost-align"
